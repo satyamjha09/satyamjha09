@@ -1,4 +1,4 @@
-![Dispans](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
+![satyamjha](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 
 <h1 align="center">Hi 👋, I'm satyamjha09</h1>
 <h3 align="center">A passionate FULL STACK(MERN) from India</h3>
