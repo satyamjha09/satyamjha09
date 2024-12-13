@@ -21,7 +21,7 @@
 
 - 🤝 I’m looking for help with [E-Commerce](https://github.com/satyamjha09/E-Commerce-satyam.git)
 
-- 👨‍💻 All of my projects are available at [satyamjha09](satyamjha09)
+- 👨‍💻 All of my projects are available at (means this github account) [satyamjha09](satyamjha09)
 
 - 💬 Ask me about **React.js , Node.js , Express , javascript**
 
