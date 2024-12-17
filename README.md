@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on [StudyNotion](https://github.com/satyamjha09/studynotion-edtech-project-main.git)
 
-- 🤝 I’m looking for help with [E-Commerce](https://github.com/satyamjha09/E-Commerce-satyam.git)
+- 🤝 I’m not looking for help with [E-Commerce](https://github.com/satyamjha09/E-Commerce-satyam.git)
 
 - 👨‍💻 All of my projects are available at (means this github account) [satyamjha09](satyamjha09)
 
