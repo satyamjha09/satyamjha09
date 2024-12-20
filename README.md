@@ -1,7 +1,7 @@
 ![satyam_Jha](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 
 <h1 align="center">Hi 👋, I'm satyamjha09</h1>
-<h3 align="center">A passionate FULL STACK(MERN) and DSA Lover from India</h3>
+<h3 align="center">A passionate  FULL STACK(MERN) and DSA Lover from India</h3>
 
 <video width="320" height="240" controls>
   <source src="https://www.facebook.com/100008154160960/videos/3723821141264276/" type="video/mp4">
